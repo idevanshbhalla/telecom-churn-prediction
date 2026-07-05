@@ -5,7 +5,7 @@ Customer Churn dataset (7,043 customers, 21 attributes). Five classifiers
 were compared; a tuned Logistic Regression was selected as the champion
 model and shipped as a single deployable pipeline.
 
-**Live demo:** _add your Streamlit Community Cloud URL here after deploying_
+**Live demo:** (https://telecom-churn-prediction-devansh.streamlit.app/)
 
 ## Results (held-out 30% test set)
 
